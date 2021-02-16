@@ -1,0 +1,3 @@
+// deply firebase cloud function
+firebase functions:config:set gmail.email="avgldnl@gmail.com" gmail.password="..."
+firebase deploy --only functions 
